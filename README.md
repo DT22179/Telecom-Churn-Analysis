@@ -11,7 +11,7 @@ Performing an Exploratory Data Analysis on Telecom Company for preventing custom
 
     Target Feature :
     
-      1. Churn (Bool type) Further we can convert it to int type with value 0 and 1 for False and True respectively. Note: Churn is a type of Categorical feature.
+      1. Churn (Bool type) Further I have converted it into int type with value 0 and 1 for False and True respectively. Note: Churn is a type of Categorical feature.
         
     Numerical Feature :
     
