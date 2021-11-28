@@ -3,13 +3,18 @@ Performing an Exploratory Data Analysis on Telecom Company for preventing custom
 
 **Business Problem** - 
     To Explore and analyze the data provided by Orange S.A., to discover key factors responsible for customer churn and suggest ways to ensure customer retention.
+    
 **Business Metric** - 
     Decrease % of customer churn rate (or increase the % of customer retention).
     
 **Data Provided** - 
+
     _Target Feature_ :
-        1. Churn (Bool type) Further we can convert it to int type with value 0 and 1 for False and True respectively. Note: Churn is a type of Categorical feature
+    
+        1. Churn (Bool type) Further we can convert it to int type with value 0 and 1 for False and True respectively. Note: Churn is a type of Categorical feature.
+        
     _Numerical Feature_ :
+    
         1. Account Length
         2. Number Vmail Messages
         3. Total Day Minutes
@@ -25,7 +30,9 @@ Performing an Exploratory Data Analysis on Telecom Company for preventing custom
         13. Total Intl Calls
         14. Total Intl Charge
         15. Customer Services Call
+        
     _Categorical Feature_ :
+    
         1. State
         2. Area Code
         3. International Plan
