@@ -54,7 +54,7 @@ Performing an Exploratory Data Analysis on Telecom Company for preventing custom
 
   5. Customer's if they incurr international charge of more than 8 are more likely to go churn.
 
-**Recommending ways which I believe can increase the rate of customer churn** - 
+**Recommending ways which I believe can increase the rate of customer retention** - 
 
   1. We must try to introduce a new scheme for international plan. By which our customer's will be benefited more than what they are geting now. Also we can decrease the cost of      our international plan as we can see those customer's who incurr international charge of more than 8 are more likely to go churn.
 
