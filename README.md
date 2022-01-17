@@ -1,3 +1,5 @@
+The telecommunication sector is made up of companies that make communication possible on a global scale, whether it is through the phone or the Internet. Orange S.A. is one such French multinational telecommunication corporation(11th  largest in the world) which have provided us with its cleaned customer data. We have to perform exploratory data analysis on a data provided to us and come up with a ways to decrease the churn rate of the customer. Customer churn in the telecom industry poses one of the most significant risks to loss of revenue. Annual churn rates for telecommunications companies average between 10 percent and 67 percent. We have to ensure that our customer continue to utilize our service and for that we have to retain them. Since, the cost of acquiring new customer is 25 times higher than the cost of retaining them.
+
 # Telecom-Churn-Analysis 
 Performing an Exploratory Data Analysis on Telecom Company for preventing customer churn.
 
